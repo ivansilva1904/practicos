@@ -1,0 +1,11 @@
+C:\Users\ivans\source\repos\practico3\practico3\bin\Debug\practico2.exe.config
+C:\Users\ivans\source\repos\practico3\practico3\bin\Debug\practico2.exe
+C:\Users\ivans\source\repos\practico3\practico3\bin\Debug\practico2.pdb
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico3.csprojAssemblyReference.cache
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico2.Form1.resources
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico2.MDIParent1.resources
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico2.Properties.Resources.resources
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico3.csproj.GenerateResource.cache
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico3.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico2.exe
+C:\Users\ivans\source\repos\practico3\practico3\obj\Debug\practico2.pdb
